@@ -1,1 +1,2 @@
-my_new_repo
+my updated new README
+it is me doing me 😃
